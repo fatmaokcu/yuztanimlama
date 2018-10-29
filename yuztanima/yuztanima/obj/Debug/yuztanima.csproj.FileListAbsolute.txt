@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.exe.config
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.Form1.resources
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.Properties.Resources.resources
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\yuztanima\yuztanima\obj\Debug\yuztanima.csproj.CoreCompileInputs.cache
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.csprojAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.exe.config
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.Form1.resources
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.Properties.Resources.resources
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.csproj.GenerateResource.cache
+C:\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\yuztanima\yuztanima\obj\Debug\yuztanima.csproj.CoreCompileInputs.cache
